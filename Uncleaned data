@@ -1,3 +1,13 @@
-Data contains: Job title ,Job description ,Salary estimate ,Company name
-,Industry ,Sector ,Location ,Headquarters ,Employee size ,Type of
-organization ,Revenue and Competitors
+The dataset contains job market information with the following attributes:
+• Job Title
+• Job Description
+• Salary Estimate
+• Company Name
+• Industry
+• Sector
+• Location
+• Headquarters
+• Employee Size
+• Type of Organization
+• Revenue
+• Competitors
